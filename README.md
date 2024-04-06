@@ -21,7 +21,7 @@ Outline and justify how your level design facilitates the core player experience
 ### 1.1. Discovery
 What does the player learn? How does your encounter and broader level design facilitate learning in a way that follows good design practice?
 
-When the player starts the level, there are mechanics that will be introduced to the player
+When the player starts the level, there are mechanics that will be introduced to the player. This will show the player on what to expect when it comes to trying to find out how to overcome obstacles, trying to think of a solution and how 
 
 ### 1.2. Drama
 What is the intensity curve? How does your design facilitate increasing yet modulating intensity, with moments of tension and relief? 
@@ -53,7 +53,7 @@ Adding the acid in the beginning of the level can be a good obstacle becuase it 
 ### 2.2. Pushable Boxes
 
 ![PushableBlock 1!](DocImages/PushableBlock1.png)
-![PushableBlock 2!](DocImages/Acid2.png)
+![PushableBlock 2!](DocImages/PushableBlock2.png)
 
 Pushable boxes can be pushed by the player
 
