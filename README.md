@@ -31,7 +31,7 @@ When the player starts the level, the level will teach the player about the desi
 ### 1.3. Challenge
 What are the main challenges? How have you designed and balanced these challenges to control the difficulty curve and keep the player in the flow channel?
 
-The main challenge is the difficulty and trying to avoid obstacles. When there are challenge in the level, there can be more obsticles and more enemies combined.
+The main challenge is the difficulty and trying to avoid obstacles. When there are challenge in the level, there can be more obsticles and more enemies combined. For example, there are more spitter appearing after the first section of the game, the spitter not only tries to slow down the player, this also keeps the player to keep moving as it does not give the player time to
 
 ### 1.4. Exploration
 How does your level design facilitate autonomy and invite the player to explore? How do your aesthetic and layout choices create distinct and memorable spaces and/or places?
@@ -66,6 +66,9 @@ When the pressure pad is pressed, it will activate the trigger.
 The trigger doors will function when being activated
 
 ### 2.5. Spikes
+
+![Spikes 1!](DocImages/Spikes1.png)
+![Spikes 2!](DocImages/Spikes2.png)
 
 Spikes will deal 1 heart of damage to the player
 
