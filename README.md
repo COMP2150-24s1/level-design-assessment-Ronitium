@@ -65,7 +65,7 @@ You should restructure the headings below to match the order they appear in your
 
 ### 2.12 Spitters
 
-### 2.13 Destructable Walla
+### 2.13 Destructable Walls
 
 ### 2.14 Health Pickups
 
