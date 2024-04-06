@@ -43,37 +43,71 @@ You should restructure the headings below to match the order they appear in your
 
 ### 2.1. Acid
 
+Acid is a dangrous liquid in the game. If a player lands on the acid, the player will go back to the checkpoint otherwise they will be sent to the beginning of the level
+
 ### 2.2. Pushable Boxes
+
+Pushable boxes can be pushed by the player
 
 ### 2.3. Pressure Pads
 
+When the pressure pad is pressed, it will activate the trigger.
+
 ### 2.4. Trigger Doors
+
+The trigger doors will function when being activated
 
 ### 2.5. Spikes
 
+Spikes will deal 1 heart of damage to the player
+
 ### 2.6. Moving Platforms
+
+Platforms will move depending on the direction
 
 ### 2.7. Weapon Pickup (Staff)
 
+The player will acquire the staff if interacted
+
 ### 2.8. Chompers
+
+Chompers will deal 1 heart of damage to the player when being hit
 
 ### 2.9. Destructable Columns
 
+Destructable columns can be destroyed by the staff
+
 ### 2.10. Weapon Pickup (Gun)
+
+The player will acquire the gun if interacted
 
 ### 2.11. Single Use Switches
 
+The single use switches will be activated using the bullet
+
 ### 2.12 Spitters
+
+The spitter will deal 1 heart of damage to the player when being hit
 
 ### 2.13 Destructable Walls
 
+Destructable walls can be destroyed by the staff
+
 ### 2.14 Health Pickups
+
+The player will gain 1 heart
 
 ### 2.15 Pass Through Platforms
 
+The player will go through platforms to prevent going back
+
 ### 2.16 Bridge
 
+The bridge will function when being activated
+
 ### 2.17 Keys
+
+When the player interacts with the key, they will get it
 
 ## 3. Spatiotemporal Design
 A section on Spatiotemporal Design, which includes your molecule diagram and annotated level maps (one for each main section of your level). These diagrams may be made digitally or by hand, but must not be created from screenshots of your game. The annotated level maps should show the structure you intend to build, included game elements, and the path the player is expected to take through the level. Examples of these diagrams are included in the level design lectures.
