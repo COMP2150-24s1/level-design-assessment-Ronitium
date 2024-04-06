@@ -67,11 +67,13 @@ You should restructure the headings below to match the order they appear in your
 
 ### 2.13 Destructable Walla
 
-### 2.14 Health Pickupa
+### 2.14 Health Pickups
 
 ### 2.15 Pass Through Platforms
 
-### 2.16 Keys
+### 2.16 Bridge
+
+### 2.17 Keys
 
 ## 3. Spatiotemporal Design
 A section on Spatiotemporal Design, which includes your molecule diagram and annotated level maps (one for each main section of your level). These diagrams may be made digitally or by hand, but must not be created from screenshots of your game. The annotated level maps should show the structure you intend to build, included game elements, and the path the player is expected to take through the level. Examples of these diagrams are included in the level design lectures.
