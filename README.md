@@ -21,8 +21,12 @@ Outline and justify how your level design facilitates the core player experience
 ### 1.1. Discovery
 What does the player learn? How does your encounter and broader level design facilitate learning in a way that follows good design practice?
 
+When the player starts the level, there are mechanics that will be introduced to the player
+
 ### 1.2. Drama
 What is the intensity curve? How does your design facilitate increasing yet modulating intensity, with moments of tension and relief? 
+
+When the player starts the level, the level will teach the player about the design of the level. However, when the player makes good progress through the level, the difficulty will become more intense as there are more enimies and more obstacles. 
 
 ### 1.3. Challenge
 What are the main challenges? How have you designed and balanced these challenges to control the difficulty curve and keep the player in the flow channel?
@@ -39,25 +43,35 @@ You should restructure the headings below to match the order they appear in your
 
 ### 2.1. Acid
 
-### 2.2. Pushable Block
+### 2.2. Pushable Boxes
 
-### 2.3. Chompers
+### 2.3. Pressure Pads
 
-### 2.4. Health Pickups
+### 2.4. Trigger Doors
 
-### 2.5. Keys
+### 2.5. Spikes
 
 ### 2.6. Moving Platforms
 
-### 2.7. Passthrough Platforms
+### 2.7. Weapon Pickup (Staff)
 
-### 2.8. Spikes
+### 2.8. Chompers
 
-### 2.9. Spitters
+### 2.9. Destructable Columns
 
 ### 2.10. Weapon Pickup (Gun)
 
-### 2.11. Weapon Pickup (Staff)
+### 2.11. Single Use Switches
+
+### 2.12 Spitters
+
+### 2.13 Destructable Walla
+
+### 2.14 Health Pickupa
+
+### 2.15 Pass Through Platforms
+
+### 2.16 Keys
 
 ## 3. Spatiotemporal Design
 A section on Spatiotemporal Design, which includes your molecule diagram and annotated level maps (one for each main section of your level). These diagrams may be made digitally or by hand, but must not be created from screenshots of your game. The annotated level maps should show the structure you intend to build, included game elements, and the path the player is expected to take through the level. Examples of these diagrams are included in the level design lectures.
