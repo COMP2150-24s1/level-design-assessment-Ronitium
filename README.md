@@ -43,7 +43,7 @@ You should restructure the headings below to match the order they appear in your
 
 ### 2.1. Acid
 
-![Acid 1!](DocImages/Acid/Acid1.png)
+![Acid 1!](DocImages/Acid1.png)
 
 Acid is a dangrous liquid in the game. If a player lands on the acid, the player will go back to the checkpoint otherwise they will be sent to the beginning of the level
 
