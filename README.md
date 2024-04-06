@@ -31,6 +31,8 @@ When the player starts the level, the level will teach the player about the desi
 ### 1.3. Challenge
 What are the main challenges? How have you designed and balanced these challenges to control the difficulty curve and keep the player in the flow channel?
 
+The main challenge is the difficulty and trying to avoid obstacles. When there are challenge in the level, there can be more obsticles and more enemies combined.
+
 ### 1.4. Exploration
 How does your level design facilitate autonomy and invite the player to explore? How do your aesthetic and layout choices create distinct and memorable spaces and/or places?
 
@@ -44,10 +46,14 @@ You should restructure the headings below to match the order they appear in your
 ### 2.1. Acid
 
 ![Acid 1!](DocImages/Acid1.png)
+![Acid 2!](DocImages/Acid2.png)
 
-Acid is a dangrous liquid in the game. If a player lands on the acid, the player will go back to the checkpoint otherwise they will be sent to the beginning of the level
+Adding the acid in the beginning of the level can be a good obstacle becuase it introduces the hazard of the level.
 
 ### 2.2. Pushable Boxes
+
+![PushableBlock 1!](DocImages/PushableBlock1.png)
+![PushableBlock 2!](DocImages/Acid2.png)
 
 Pushable boxes can be pushed by the player
 
