@@ -128,7 +128,7 @@ Moving the platform will safely help the player get from one side to another ins
 2)
 ![Checkpoint 2!](DocImages/CP2.png)
 
-Checkpoints prevent players from repeating a large section of the level. For example, If the player dies on acid, the player respawns at the checkpoint instead.
+Checkpoints prevent players from repeating a large section of the level after dying. For example, If the player dies on acid, the player respawns at the checkpoint instead.
 
 ### 2.8. Weapon Pickup (Staff)
 1)
@@ -147,7 +147,7 @@ Staff was added to the game because there will be enemies or other mechanics tha
 2)
 ![Chompers 2!](DocImages/Chompers2.png)
 
-Makes the player aware that the enemy will be after the player.
+Makes the player aware that the chompers will attack the player.
 
 ### 2.10. Destructable Columns
 
