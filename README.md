@@ -96,7 +96,7 @@ Moving platform will safely help the player getting to one side to another inste
 
 ### 2.7. Weapon Pickup (Staff)
 
-Staff was added to the game because there will be enimies or other mechanics that requires a staff
+Staff was added to the game because there will be enemies or other mechanics that requires a staff
 
 ### 2.8. Chompers
 
@@ -111,7 +111,7 @@ The level assumes that the player has picked up the staff. Without the staff, th
 
 ### 2.10. Weapon Pickup (Gun)
 
-The player will acquire the gun if interacted
+Gun was added to the game as there will be switches
 
 ### 2.11. Single Use Switches
 
@@ -119,7 +119,10 @@ The level assumes that the player has picked up the gun. The single use switches
 
 ### 2.12 Spitters
 
-Adding the spitter to the level creates another obsticle to the player
+Adding the spitter to the level creates another obsticle to the player. This makes the player trying to avoid the spit or passing through the spitter before the spitter spits.
+
+![Spitters 1!](DocImages/Spitters1.png)
+![Spitters 2!](DocImages/Spitters2.png)
 
 ### 2.13 Destructable Walls
 
@@ -175,11 +178,15 @@ No additional words are necessary for this section (any words should only be wit
 ![Section 3D!](DocImages/S3D.png)
 
 ## 4. Iterative Design (~400 words)
-Reflect on how iterative design helped to improve your level. Additional prototypes and design artefacts should be included to demonstrate that you followed an iterative design process (e.g. pictures of paper prototypes, early grey-boxed maps, additional storyboards of later gameplay sequences, etc.). You can also use this section to justify design changes made in Unity after you drew your level design maps shown in section 3. 
+Making a iterative design really comes to play when trying to make the layout of the game. Making a prototype from a storyboard really helps when trying to find if the player can sucessfully make it from one jump to another and adding a mechanics to see if the work against the player. Playtesting of level also helps when testing multiple mechanics in a single encounter, making the sure that the mechanics are working as intended to be, making sure that the triggers in the level is working correctly, make sure that the player can beat the level within the time given, make sure that every section of the level can be playale and making sure that the level is not annoying for the player to beat.
 
-You should conclude by highlighting a specific example of an encounter, or another aspect of your level design, that could be improved through further iterative design.
+When making the level from Unity, it needs to make sure that the player tries to understand the mechanics of the game and needs to ensure that each section of the level will have a good intensity curve. Without the players understanding the mechanics for the level and starting the level with a difficulty being too hard for the player, it will make the level not being inviting to the player.
 
-Making a iterative design really comes to play when trying to make the layout of the game. Making a prototype from a storyboard is really help when experieminenting the machins of the level.
+When playtesting the level, there are some mechanics that need to be added or removed from the scene becuase some mechanics do not work in certain areas of the level or sometimes some combined mechanics may take too long for the player to beat, there is also needs to be a lot of playtesting with the level becuase when finishing the level, the amount of time taken will always display a different result.
+
+When playtesting the level and timing how long it takes to beat the level, there is one sence that did not make it to the Unity level from the storyboard becuase it may take longer for the other players to beat the level in a certain timeframe.
+
+However, there are improvements for the level to be better, 
 
 ## Generative AI Use Acknowledgement
 
