@@ -177,7 +177,7 @@ The gun plays the role of killing enemies at a long range and activates a single
 2)
 ![Single Use Switches 2!](DocImages/SUS2.png)
 
-The level assumes that the player has picked up the gun. The single use switches can only be activated when the bullet interacts with the switches.
+The level assumes that the player has picked up the gun. The single use switches can only be activated when the bullet interacts with the switches. However, the switch can only be activated once.
 
 ### 2.13. Spitters
 
