@@ -237,9 +237,10 @@ The bridge will block the player's path unless it is triggered by either a press
 The keys play an important role as three keys are the requirement for the player to successfully complete the level by opening the door at the end of the level
 
 ## 3. Spatiotemporal Design
-![MoleculeDiagram!](DocImages/MoleculeDiagram.png)
 
 ### 3.1. Molecule Diagram
+
+![MoleculeDiagram!](DocImages/MoleculeDiagram.png)
 
 ### 3.2. Level Map – Section 1
 ![Section 1A!](DocImages/S1A.png)
