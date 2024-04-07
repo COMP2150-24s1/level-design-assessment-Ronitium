@@ -53,103 +53,179 @@ This demonstrates that the player can get an oportunity to reexplore an area tha
 
 ### 2.1. Acid
 
+1)
 ![Acid 1!](DocImages/Acid1.png)
+
+2)
 ![Acid 2!](DocImages/Acid2.png)
 
 Adding the acid in the beginning of the level can be a good obstacle as it introduces the player to a hazard of the level.
 
 ### 2.2. Pushable Boxes
 
+1)
 ![PushableBlock 1!](DocImages/PushableBlock1.png)
+2)
 ![PushableBlock 2!](DocImages/PushableBlock2.png)
 
 Adding Pushable Boxes as there can be other mechanics that may require a Box to push with
 
 ### 2.3. Pressure Pads
 
+1)
+![PressurePad 1!](DocImages/PressurePad1.png)
+2)
+![PressurePad 2!](DocImages/PressurePad2.png)
+
 Pressure Pads will make the player discover a mechanic that will trigger another mechanic.
 
 ### 2.4. Trigger Doors
+
+1)
+![Trigger Doors 1!](DocImages/TriggerDoors1.png)
+
+2)
+![Trigger Doors 2!](DocImages/TriggerDoors2.png)
 
 Trigger doors will prevent the player from exploring the level even furthur as it need to be activated by a certain mechanic.
 
 ### 2.5. Spikes
 
+1)
 ![Spikes 1!](DocImages/Spikes1.png)
+2)
 ![Spikes 2!](DocImages/Spikes2.png)
 
-Adding spikes also introduce another hazard of the level because this keeps the player aware that acid is not the only mechanics that harms the player
+Adding spikes also introduce another hazard of the level because this keeps the player aware that acid is not the only mechanics that harms the player.
 
 ### 2.6. Moving Platforms
 
+1)
 ![Moving Platform 1!](DocImages/MPlatform1.png)
+2)
 ![Moving Platform 2!](DocImages/MPlatform2.png)
+3)
 ![Moving Platform 3!](DocImages/MPlatform3.png)
+4)
 ![Moving Platform 4!](DocImages/MPlatform4.png)
 
-Moving platform will safely help the player getting to one side to another instead of jumping to the big gap
+Moving platform will safely help the player getting to one side to another instead of jumping to the big gap.
 
-### 2.7. Weapon Pickup (Staff)
+### 2.7. Checkpoint
 
-Staff was added to the game because there will be enemies or other mechanics that requires a staff
+1)
+![Checkpoint 1!](DocImages/CP1.png)
+2)
+![Checkpoint 2!](DocImages/CP2.png)
 
-### 2.8. Chompers
+Checkpoints prevents players from repeating a large section of the level. If the players dies on acid, the player respawn at the checkpoint instead.
 
+### 2.8. Weapon Pickup (Staff)
+1)
+![Staff 1!](DocImages/Staff1.png)
+2)
+![Staff 2!](DocImages/Staff2.png)
+
+Staff was added to the game because there will be enemies or other mechanics that requires a staff to hit with.
+
+### 2.9. Chompers
+
+1)
 ![Chompers 1!](DocImages/Chompers1.png)
+2)
 ![Chompers 2!](DocImages/Chompers2.png)
 
-Makes the player aware that the enemy will be after the player
+Makes the player aware that the enemy will be after the player.
 
-### 2.9. Destructable Columns
+### 2.10. Destructable Columns
+
+1)
+![Destructable Walls 1!](DocImages/DC1.png)
+2)
+![Destructable Walls 2!](DocImages/DC2.png)
 
 The level assumes that the player has picked up the staff. Without the staff, the player can not destory a destructable column with prevents the player from exploring the level even furthur.
 
-### 2.10. Weapon Pickup (Gun)
+### 2.11. Weapon Pickup (Gun)
 
-Gun was added to the game as there will be switches
 
-### 2.11. Single Use Switches
 
-The level assumes that the player has picked up the gun. The single use switches can only be activated when the bullet interacts with them.
+Gun plays a role of killing enimes at the long range and activates a single use switch.
 
-### 2.12 Spitters
+### 2.12. Single Use Switches
+
+1)
+![Single Use Switches 1!](DocImages/SUS1.png)
+2)
+![Single Use Switches 2!](DocImages/SUS2.png)
+
+The level assumes that the player has picked up the gun. The single use switches can only be activated when the bullet interacts with the switches.
+
+### 2.13. Spitters
 
 Adding the spitter to the level creates another obsticle to the player. This makes the player trying to avoid the spit or passing through the spitter before the spitter spits.
 
-![Spitters 1!](DocImages/Spitters1.png)
-![Spitters 2!](DocImages/Spitters2.png)
+1)
+![Spitters 1!](DocImages/Spitter1.png)
+2)
+![Spitters 2!](DocImages/Spitter2.png)
 
-### 2.13 Destructable Walls
+### 2.14. Destructable Walls
 
-Adding destructable wall will not only make the player safe from other obsticles but also gives player time to rest before continuing the level. 
+1)
+![Destructable Walls 1!](DocImages/DW1.png)
+2)
+![Destructable Walls 2!](DocImages/DW2.png)
 
-### 2.14 Health Pickups
+Adding destructable wall will not only make the player defended from other enemies but also gives player time to rest before continuing the level. The player requires hit the destructable wall using the staff five times before continuing.
 
-After the player took some damages from the enimies or obstacles, health pickup will be provided because this will prevent the player from dying which can result in going to the beginning of the level once the player is out of heats. This also makes the player prepare for the upcoming complex section.
+### 2.15. Health Pickups
 
-### 2.15 Pass Through Platforms
+1)
+![Health Pickups 1!](DocImages/HP1.png)
+2)
+![Health Pickups 2!](DocImages/HP2.png)
+
+After the player took some damages from the enimies or obstacles, health pickup will be provided because this will prevent the player from dying which can result in going to the beginning of the level once the player is out of heats. This also makes the player prepare for the upcoming complex section and also helps when the players health is critically low.
+
+### 2.16. Pass Through Platforms
+
+1)
+![Pass Through Platforms 1!](DocImages/PTP1.png)
+2)
+![Pass Through Platforms 2!](DocImages/PTP2.png)
 
 Pass through platforms plays an important role as it prevents the player from going at the wrong direction of the level. 
 
-### 2.16 Bridge
+### 2.17. Bridge
 
-The bridge will block the players path unless the players find out to trigger it
+1)
+![Bridge 1!](DocImages/Bridge1.png)
+2)
+![Bridge 2!](DocImages/Bridge2.png)
 
-### 2.17 Keys
+The bridge will block the players path unless it was triggered by either a pressure pad or a single use switch.
 
-The keys plays an important roles as it is a requirement for the player to sucessfully complete the level
+### 2.18. Keys
 
-### 2.18 (Destructable walls and spitter)
+1)
+![Key 1!](DocImages/Key1.png)
+2)
+![Key 2!](DocImages/Key2.png)
+
+The keys plays an important role as three keys are the requirement for the player to sucessfully complete the level by oepning the door at the end of the level
+
+### 2.19. (Destructable walls and spitter)
 
 When there is a spitter and destructable wall, it slows down the player from destructing the wall because not only the player has to destruct the wall to continue the level, the player also needs to avoid the spitters' spit.
 
-### 2.19 (Moving platform and acid)
+### 2.20. (Moving platform and acid)
 
 IF the player fails to make a jump on the moving platform, the player will fall into acid which results in the player having to go back to the checkpoint otherwise to the beginning of the level if failed to land a jump son the platform.
 
-### 2.20 (Chompers, spitters and Moving platform)
+### 2.21. (Moving platform and spikes)
 
-Chompers and spitters being on a moving platform acts as a bodyguard as not only the players have to go to the moving platform, they will also need to deal with the chompers and spitters being on or near the platform.
+Adding a spike hanging upside with a moving platform will make the player crouch
 
 ## 3. Spatiotemporal Design
 
@@ -184,22 +260,11 @@ However, there are improvements for the level to be better, when playing the lev
 
 ## Generative AI Use Acknowledgement
 
-Use the below table to indicate any Generative AI or writing assistance tools used in creating your document. Please be honest and thorough in your reporting, as this will allow us to give you the marks you have earnt. Place any drafts or other evidence inside this repository. This form and related evidence do not count to your word count.
-An example has been included. Please replace this with any actual tools, and add more as necessary.
-
-
-### Tool Used: ChatGPT
-**Nature of Use** Finding relevant design theory.
-
-**Evidence Attached?** Screenshot of ChatGPT conversation included in the folder "GenAI" in this repo.
-
-**Additional Notes:** I used ChatGPT to try and find some more relevant design theory that I could apply to my game. After googling them, however, I found most of them were inaccurate, and some didn't exist. One theory mentioned, however, was useful, and I've incorporated it into my work.
-
-### Tool Used: Example
-**Nature of Use** Example Text
+### Tool Used: Grammarly
+**Nature of Use** To fix up the errors of the spelling
 
 **Evidence Attached?** Example Text
 
-**Additional Notes:** Example Text
+**Additional Notes:** I used Grammarly to fix up the wordings
 
 
