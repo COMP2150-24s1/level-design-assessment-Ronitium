@@ -159,10 +159,10 @@ The level assumes that the player has picked up the staff. Without the staff, th
 ### 2.11. Weapon Pickup (Gun)
 
 1)
-![Gun 1!](DocImages/Gun1.png)
+![Gun 1!](DocImages/G1.png)
 
 2)
-![Gun 2!](DocImages/Gun2.png)
+![Gun 2!](DocImages/G2.png)
 
 The gun plays the role of killing enemies at a long range and activates a single use switch.
 
