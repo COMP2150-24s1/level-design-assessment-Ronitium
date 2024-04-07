@@ -50,11 +50,6 @@ Another example that the player can explore is in the second section of the leve
 This demonstrates that the player can get an oportunity to reexplore an area that they have been before but will find out that another path has been opened.
 
 ## 2. Core Gameplay (~400 words)
-A section on Core Gameplay, where storyboards are used to outline how you introduce the player to each of the required gameplay elements in the first section of the game. Storyboards should follow the format provided in lectures.
-
-Storyboards can be combined when multiple mechanics are introduced within a single encounter. Each section should include a sentence or two to briefly justify why you chose to introduce the mechanic/s to the player in that sequence.
-
-You should restructure the headings below to match the order they appear in your level.
 
 ### 2.1. Acid
 
@@ -157,10 +152,7 @@ IF the player fails to make a jump on the moving platform, the player will fall 
 Chompers and spitters being on a moving platform acts as a bodyguard as not only the players have to go to the moving platform, they will also need to deal with the chompers and spitters being on or near the platform.
 
 ## 3. Spatiotemporal Design
-A section on Spatiotemporal Design, which includes your molecule diagram and annotated level maps (one for each main section of your level). These diagrams may be made digitally or by hand, but must not be created from screenshots of your game. The annotated level maps should show the structure you intend to build, included game elements, and the path the player is expected to take through the level. Examples of these diagrams are included in the level design lectures.
 
-No additional words are necessary for this section (any words should only be within your images/diagrams).
- 
 ### 3.1. Molecule Diagram
 
 ### 3.2. Level Map – Section 1
@@ -184,9 +176,11 @@ When making the level from Unity, it needs to make sure that the player tries to
 
 When playtesting the level, there are some mechanics that need to be added or removed from the scene becuase some mechanics do not work in certain areas of the level or sometimes some combined mechanics may take too long for the player to beat, there is also needs to be a lot of playtesting with the level becuase when finishing the level, the amount of time taken will always display a different result.
 
+![Scrapped Storyboard!](DocImages/Scrapped.png)
+
 When playtesting the level and timing how long it takes to beat the level, there is one sence that did not make it to the Unity level from the storyboard becuase it may take longer for the other players to beat the level in a certain timeframe.
 
-However, there are improvements for the level to be better, 
+However, there are improvements for the level to be better, when playing the level, there are a lot of destrutable walls which can result in additional time to take to beat the level within the time frame and making sure that certain areas of the game is not confussing for the players to discover and explore.
 
 ## Generative AI Use Acknowledgement
 
