@@ -74,6 +74,11 @@ Spikes will deal 1 heart of damage to the player
 
 ### 2.6. Moving Platforms
 
+![Moving Platform 1!](DocImages/MPlatform1.png)
+![Moving Platform 2!](DocImages/MPlatform2.png)
+![Moving Platform 3!](DocImages/MPlatform3.png)
+![Moving Platform 4!](DocImages/MPlatform4.png)
+
 Platforms will move depending on the direction
 
 ### 2.7. Weapon Pickup (Staff)
