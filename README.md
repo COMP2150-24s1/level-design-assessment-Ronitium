@@ -59,6 +59,9 @@ This demonstrates that the player can get an opportunity to reexplore an area th
 2)
 ![Acid 2!](DocImages/Acid2.png)
 
+3)
+![Acid 3!](DocImages/Acid3.png)
+
 Adding the acid at the beginning of the level can be a good obstacle as it introduces the player to a hazard of the level.
 
 ### 2.2. Pushable Boxes
