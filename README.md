@@ -240,6 +240,8 @@ The keys play an important role as three keys are the requirement for the player
 
 ### 3.1. Molecule Diagram
 
+![MoleculeDiagram!](DocImages/MoleculeDiagram.png)
+
 ### 3.2. Level Map – Section 1
 ![Section 1A!](DocImages/S1A.png)
 ![Section 1B!](DocImages/S1B.png)
