@@ -3,42 +3,51 @@
 ### Name: Ryan Ly
 ### Student number: 47615540 
 
-This document discusses and reflects on the design of your platformer level for the Level Design assessment. It should be 1500 words. Make sure you delete this and all other instructional text throughout the document before checking your word count prior to submission. Hint: You can check word count by copying this text into a Word or Google doc.
-
-Your document must include images. To insert an image into your documentation, place it in the "DocImages" folder in this repo, then place the below text where you want the image to appear:
-
-```
-![Place any alt text here](DocImages/<IMAGE NAME AND FILE EXTENSION>)
-```
-
-Example:
-
-![This is the alt text for an image!](DocImages/exampleimage.png)
-
 ## 1. Player Experience (~700 words)
-Outline and justify how your level design facilitates the core player experience goals outlined in the assignment spec. Each section should be supported by specific examples and screenshots of your game encounters that highlight design choices made to facilitate that particular experience.
 
 ### 1.1. Discovery
-What does the player learn? How does your encounter and broader level design facilitate learning in a way that follows good design practice?
+When the player starts the level assuming that the player knows the controls, there are mechanics that will be introduced to the player. This will show the player on what to expect when it comes to trying to find out how to overcome obsticles no matter the difficulty and learning how the mechanics works when being interacted by the player. 
 
-When the player starts the level assuming that the player knows the controls, there are mechanics that will be introduced to the player. This will show the player on what to expect when it comes to trying to find out how to overcome obsticles no matter the difficulty and learning how the mechanics works when being interacted by the player. For example, when the player observe the first mechanic in the level (acid), they will find out how the mechanic work. However, after discovering the first mechanic, they will discover a new different mechanic. This also applies with other different individual mechanics that were introduced to the level.
+For example, when the player observe the first mechanic in the level (acid), they will find out how the mechanic work. However, after discovering the first mechanic, they will discover a new different mechanic. This also applies with other different mechanics that were introduced to the level.
 
 ![Discovery!](DocImages/Discovery.png)
 
 This will indicate to players that once the players learn about a certain mechanic, the players will become more familiar when they meet with the same mechanic again.
 
 ### 1.2. Drama
-What is the intensity curve? How does your design facilitate increasing yet modulating intensity, with moments of tension and relief? 
+At the beginning of the level, the level introduce to the players each of the seperate mechanics. However when the player make very good progress throughout the level, there will be combined mechanics that can make the difficulty intense because after the player mastered each individual mechanics, the player will find out the combined mechanics in the level.
 
-When the player starts the level, the level will teach the player about the design of the level. However, when the player makes good progress through the level, the difficulty will become more intense as there are more enimies and more obstacles. 
+For example, after the player finished and become fimilarised with the mechanics, they will discover that there will be mulitple mechanics happening at once like having the spitter inside the wall to act as a bodyguard of the other mechanics. This will put the player into a situation where the player has to find another way to overcome a combined mechanic.
+
+![Drama!](DocImages/Drama.png)
+
+This demonstrates that the player will be given once choice to the level which is to make the player complete the level in a fast pace otherwise the player will be killed if failed to do so.
 
 ### 1.3. Challenge
-What are the main challenges? How have you designed and balanced these challenges to control the difficulty curve and keep the player in the flow channel?
+The main challenge is the difficulty and trying to avoid obstacles. When there are challenges in the level, there can be more mechanics and more enemies combined. The challenge not only applies to the amount of mechanics and enemies, it also applies to the complexity of the level design.
 
-The main challenge is the difficulty and trying to avoid obstacles. When there are challenge in the level, there can be more obsticles and more enemies combined. For example, there are more spitter appearing after the first section of the game, the spitter not only tries to slow down the player, this also keeps the player to keep moving as it does not give the player time to
+For example when the player stumbled upon the third section of the level, there are mainly spitters surrounding the player and other mechanics.
+
+![Challenge!](DocImages/Challenge.png)
+
+This reveal players that having spitter surround the player will make the player keep moving as spitters will always attempt to stop the player from beating the level.
 
 ### 1.4. Exploration
 How does your level design facilitate autonomy and invite the player to explore? How do your aesthetic and layout choices create distinct and memorable spaces and/or places?
+
+At the beggining of the level, the player explore areas that the players want to find. Players can explore area that they have not been before. Exploring the level can also help the player to find out the ending of the level or certain area that can give them an advantage. When players explored the area before, certain case they might have to go back to a certain area to see if the player missed something or not otherwise the player will get lost very easily. 
+
+For example, when the player nearly reaches to the end of the level, there is another area that the player could explore like when the player explore the area they will get something like a health pickup.
+
+![Exploration 1!](DocImages/Exploration1.png)
+
+This indicates that when the player exploered an optional area, they will become more prepared and more ready for another challenge that the player will face.
+
+Another example that the player can explore is in the second section of the level. When the player explored that area, there are multiple paths and the areas that the player exploeres will not get lost.
+
+![Exploration 2!](DocImages/Exploration2.png)
+
+This demonstrates that the player can get an oportunity to reexplore an area that they have been before but will find out that another path has been opened.
 
 ## 2. Core Gameplay (~400 words)
 A section on Core Gameplay, where storyboards are used to outline how you introduce the player to each of the required gameplay elements in the first section of the game. Storyboards should follow the format provided in lectures.
@@ -52,29 +61,29 @@ You should restructure the headings below to match the order they appear in your
 ![Acid 1!](DocImages/Acid1.png)
 ![Acid 2!](DocImages/Acid2.png)
 
-Adding the acid in the beginning of the level can be a good obstacle becuase it introduces the hazard of the level.
+Adding the acid in the beginning of the level can be a good obstacle as it introduces the player to a hazard of the level.
 
 ### 2.2. Pushable Boxes
 
 ![PushableBlock 1!](DocImages/PushableBlock1.png)
 ![PushableBlock 2!](DocImages/PushableBlock2.png)
 
-Adding Pushable Boxes make the player
+Adding Pushable Boxes as there can be other mechanics that may require a Box to push with
 
 ### 2.3. Pressure Pads
 
-When the pressure pad is pressed, it will activate the trigger.
+Pressure Pads will make the player discover a mechanic that will trigger another mechanic.
 
 ### 2.4. Trigger Doors
 
-When adding trigger doors, it makes the player think about how to activate the door
+Trigger doors will prevent the player from exploring the level even furthur as it need to be activated by a certain mechanic.
 
 ### 2.5. Spikes
 
 ![Spikes 1!](DocImages/Spikes1.png)
 ![Spikes 2!](DocImages/Spikes2.png)
 
-Adding spikes also introduce another hazard of the level because this keeps the player aware
+Adding spikes also introduce another hazard of the level because this keeps the player aware that acid is not the only mechanics that harms the player
 
 ### 2.6. Moving Platforms
 
@@ -84,6 +93,7 @@ Adding spikes also introduce another hazard of the level because this keeps the 
 ![Moving Platform 4!](DocImages/MPlatform4.png)
 
 Moving platform will safely help the player getting to one side to another instead of jumping to the big gap
+
 ### 2.7. Weapon Pickup (Staff)
 
 Staff was added to the game because there will be enimies or other mechanics that requires a staff
@@ -97,7 +107,7 @@ Makes the player aware that the enemy will be after the player
 
 ### 2.9. Destructable Columns
 
-The level assumes that the player has picked up the staff. Without the staff, the player can not destory a destructable column. 
+The level assumes that the player has picked up the staff. Without the staff, the player can not destory a destructable column with prevents the player from exploring the level even furthur.
 
 ### 2.10. Weapon Pickup (Gun)
 
@@ -109,27 +119,39 @@ The level assumes that the player has picked up the gun. The single use switches
 
 ### 2.12 Spitters
 
-Assuming the player has a gun, the spitter can be attacked with either a staff or a gun.
+Adding the spitter to the level creates another obsticle to the player
 
 ### 2.13 Destructable Walls
 
-Adding destructable wall will not only make them safe before entering into another area but in some case slows the player down.
+Adding destructable wall will not only make the player safe from other obsticles but also gives player time to rest before continuing the level. 
 
 ### 2.14 Health Pickups
 
-After the player took some damages from the enimies or obstacles, health pickup will be provided because this will prevent the player from dying. This also makes the player prepare for the upcoming complex section.
+After the player took some damages from the enimies or obstacles, health pickup will be provided because this will prevent the player from dying which can result in going to the beginning of the level once the player is out of heats. This also makes the player prepare for the upcoming complex section.
 
 ### 2.15 Pass Through Platforms
 
-The player will go through platforms to prevent going back
+Pass through platforms plays an important role as it prevents the player from going at the wrong direction of the level. 
 
 ### 2.16 Bridge
 
-The bridge will function when being activated
+The bridge will block the players path unless the players find out to trigger it
 
 ### 2.17 Keys
 
-When the player interacts with the key, they will get it
+The keys plays an important roles as it is a requirement for the player to sucessfully complete the level
+
+### 2.18 (Destructable walls and spitter)
+
+When there is a spitter and destructable wall, it slows down the player from destructing the wall because not only the player has to destruct the wall to continue the level, the player also needs to avoid the spitters' spit.
+
+### 2.19 (Moving platform and acid)
+
+IF the player fails to make a jump on the moving platform, the player will fall into acid which results in the player having to go back to the checkpoint otherwise to the beginning of the level if failed to land a jump son the platform.
+
+### 2.20 (Chompers, spitters and Moving platform)
+
+Chompers and spitters being on a moving platform acts as a bodyguard as not only the players have to go to the moving platform, they will also need to deal with the chompers and spitters being on or near the platform.
 
 ## 3. Spatiotemporal Design
 A section on Spatiotemporal Design, which includes your molecule diagram and annotated level maps (one for each main section of your level). These diagrams may be made digitally or by hand, but must not be created from screenshots of your game. The annotated level maps should show the structure you intend to build, included game elements, and the path the player is expected to take through the level. Examples of these diagrams are included in the level design lectures.
@@ -156,6 +178,8 @@ No additional words are necessary for this section (any words should only be wit
 Reflect on how iterative design helped to improve your level. Additional prototypes and design artefacts should be included to demonstrate that you followed an iterative design process (e.g. pictures of paper prototypes, early grey-boxed maps, additional storyboards of later gameplay sequences, etc.). You can also use this section to justify design changes made in Unity after you drew your level design maps shown in section 3. 
 
 You should conclude by highlighting a specific example of an encounter, or another aspect of your level design, that could be improved through further iterative design.
+
+Making a iterative design really comes to play when trying to make the layout of the game. Making a prototype from a storyboard is really help when experieminenting the machins of the level.
 
 ## Generative AI Use Acknowledgement
 
