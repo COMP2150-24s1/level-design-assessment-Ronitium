@@ -21,7 +21,7 @@ Outline and justify how your level design facilitates the core player experience
 ### 1.1. Discovery
 What does the player learn? How does your encounter and broader level design facilitate learning in a way that follows good design practice?
 
-When the player starts the level, there are mechanics that will be introduced to the player. This will show the player on what to expect when it comes to trying to find out how to overcome obstacles, trying to think of a solution and how 
+When the player starts the level, there are mechanics that will be introduced to the player. This will show the player on what to expect when it comes to trying to find out how to overcome the obsticles and learning how the mechanics works to or against the play. For example
 
 ### 1.2. Drama
 What is the intensity curve? How does your design facilitate increasing yet modulating intensity, with moments of tension and relief? 
@@ -55,7 +55,7 @@ Adding the acid in the beginning of the level can be a good obstacle becuase it 
 ![PushableBlock 1!](DocImages/PushableBlock1.png)
 ![PushableBlock 2!](DocImages/PushableBlock2.png)
 
-Pushable boxes can be pushed by the player
+Adding Pushable Boxes make the player
 
 ### 2.3. Pressure Pads
 
@@ -63,14 +63,14 @@ When the pressure pad is pressed, it will activate the trigger.
 
 ### 2.4. Trigger Doors
 
-The trigger doors will function when being activated
+When adding trigger doors, it makes the player think about how to activate the door
 
 ### 2.5. Spikes
 
 ![Spikes 1!](DocImages/Spikes1.png)
 ![Spikes 2!](DocImages/Spikes2.png)
 
-Spikes will deal 1 heart of damage to the player
+Adding spikes also introduce another hazard of the level because this keeps the player aware
 
 ### 2.6. Moving Platforms
 
@@ -79,21 +79,21 @@ Spikes will deal 1 heart of damage to the player
 ![Moving Platform 3!](DocImages/MPlatform3.png)
 ![Moving Platform 4!](DocImages/MPlatform4.png)
 
-Platforms will move depending on the direction
-
+Moving platform will safely help the player getting to one side to another instead of jumping to the big gap
 ### 2.7. Weapon Pickup (Staff)
 
-The player will acquire the staff if interacted
+Staff was added to the game because there will be enimies or other mechanics that requires a staff
 
 ### 2.8. Chompers
 
 ![Chompers 1!](DocImages/Chompers1.png)
 ![Chompers 2!](DocImages/Chompers2.png)
-Chompers will deal 1 heart of damage to the player when being hit
+
+Makes the player aware that the enemy will be after the player
 
 ### 2.9. Destructable Columns
 
-Destructable columns can be destroyed by the staff
+The level assumes that the player has picked up the staff. Without the staff, the player can not destory a destructable column. 
 
 ### 2.10. Weapon Pickup (Gun)
 
@@ -101,11 +101,11 @@ The player will acquire the gun if interacted
 
 ### 2.11. Single Use Switches
 
-The single use switches will be activated using the bullet
+The level assumes that the player has picked up the gun. The single use switches can only be activated when the bullet interacts with them.
 
 ### 2.12 Spitters
 
-The spitter will deal 1 heart of damage to the player when being hit
+Assuming the player has a gun, the spitter can be attacked with either a staff or a gun.
 
 ### 2.13 Destructable Walls
 
@@ -113,7 +113,7 @@ Destructable walls can be destroyed by the staff
 
 ### 2.14 Health Pickups
 
-The player will gain 1 heart
+After the player took some damages from the enimies or obstacles, health pickup will be provided because this will prevent the player from dying. This also makes the player prepare for the upcoming complex section.
 
 ### 2.15 Pass Through Platforms
 
