@@ -21,7 +21,11 @@ Outline and justify how your level design facilitates the core player experience
 ### 1.1. Discovery
 What does the player learn? How does your encounter and broader level design facilitate learning in a way that follows good design practice?
 
-When the player starts the level, there are mechanics that will be introduced to the player. This will show the player on what to expect when it comes to trying to find out how to overcome the obsticles and learning how the mechanics works to or against the play. For example
+When the player starts the level assuming that the player knows the controls, there are mechanics that will be introduced to the player. This will show the player on what to expect when it comes to trying to find out how to overcome obsticles no matter the difficulty and learning how the mechanics works when being interacted by the player. For example, when the player observe the first mechanic in the level (acid), they will find out how the mechanic work. However, after discovering the first mechanic, they will discover a new different mechanic. This also applies with other different individual mechanics that were introduced to the level.
+
+![Discovery!](DocImages/Discovery.png)
+
+This will indicate to players that once the players learn about a certain mechanic, the players will become more familiar when they meet with the same mechanic again.
 
 ### 1.2. Drama
 What is the intensity curve? How does your design facilitate increasing yet modulating intensity, with moments of tension and relief? 
@@ -109,7 +113,7 @@ Assuming the player has a gun, the spitter can be attacked with either a staff o
 
 ### 2.13 Destructable Walls
 
-Destructable walls can be destroyed by the staff
+Adding destructable wall will not only make them safe before entering into another area but in some case slows the player down.
 
 ### 2.14 Health Pickups
 
