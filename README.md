@@ -102,7 +102,7 @@ Trigger doors will prevent the player from exploring the level even further as i
 2)
 ![Spikes 2!](DocImages/Spikes2.png)
 
-Adding spikes also introduces another hazard of the level because this keeps the player aware that acid is not the only fixed hazard that harms the player.
+Adding spikes also introduces another hazard of the level because this keeps the player aware that acid is not the only fixed position hazard that harms the player.
 
 ### 2.6. Moving Platforms
 
