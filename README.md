@@ -260,11 +260,11 @@ The keys play an important role as three keys are the requirement for the player
 ![Section 3D!](DocImages/S3D.png)
 
 ## 4. Iterative Design (~400 words)
-Making an iterative design really comes to play when trying to make the layout of the game. Making a prototype from a storyboard really helps when trying to find if the player can successfully make it from one jump to another and adding mechanics to see if they work against the player. Playtesting of the level also helps when testing multiple mechanics in a single encounter, making sure that the mechanics are working as intended, making sure that the triggers in the level are working correctly, making sure that the player can beat the level within the time given, make sure that every section of the level can be playable and making sure that the level is not annoying for the player to beat.
+Making an iterative design really comes to play when trying to make the layout of the game. Making a prototype from a storyboard helps when trying to find if the player can successfully make it from one jump to another and adding mechanics to see if they work against the player. Playtesting of the level also helps when testing multiple mechanics in a single encounter, making sure that the mechanics are working as intended, making sure that the triggers in the level are working correctly, making sure that the player can beat the level within the time given, make sure that every section of the level can be playable and making sure that the level is not annoying for the player to beat.
 
-When making the level from Unity, it needs to make sure that the player tries to understand the mechanics of the game and needs to ensure that each section of the level will have a good intensity curve. Without the players understanding the mechanics of the level and starting the level with the difficulty being too hard for the player, it will make the level not being inviting to the player.
+When making the level from Unity, it needs to ensure that the player tries to understand the mechanics of the game and needs to ensure that each section of the level will have a good intensity curve. Without the players understanding the mechanics of the level and starting the level with the difficulty being too hard for the player, it will make the level not being inviting to the player.
 
-When playtesting the level, there are some mechanics that need to be added or removed from the scene because some mechanics do not work in certain areas of the level or sometimes some combined mechanics may take too long for the player to beat, there is also needs to be a lot of playtesting with the level because when finishing the level, the amount of time taken will always display a different result.
+When playtesting the level, some mechanics need to be added or removed from the scene because some mechanics do not work in certain areas of the level or sometimes some combined mechanics may take too long for the player to beat and there needs to be a lot of playtesting with the level because when finishing the level, the amount of time taken will always display a different result.
 
 ![Scrapped Storyboard!](DocImages/Scrapped.png)
 
@@ -280,6 +280,6 @@ However, there are improvements for the level to be better when playing level, t
 **Evidence Attached?**
 ![GrammarlyEvidence!](DocImages/GrammarlyEvidence.png)
 
-**Additional Notes:** I used Grammarly to fix my spelling as I something typed the words wrong.
+**Additional Notes:** I used Grammarly to fix my spelling as I created a typo when typing. Grammarly can also assist me with spelling too.
 
 
