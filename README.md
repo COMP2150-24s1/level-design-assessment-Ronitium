@@ -72,7 +72,7 @@ Adding the acid at the beginning of the level can be a good obstacle as it intro
 2)
 ![PushableBlock 2!](DocImages/PushableBlock2.png)
 
-Adding Pushable Boxes as there can be other mechanics that may require a Box to push with
+Adding Pushable Boxes as there can be other mechanics that may require a box to push with.
 
 ### 2.3. Pressure Pads
 
@@ -237,7 +237,7 @@ The bridge will block the player's path unless it is triggered by either a press
 2)
 ![Key 2!](DocImages/Key2.png)
 
-The keys play an important role as three keys are the requirement for the player to successfully complete the level by opening the door at the end of the level
+The keys play an important role as three keys are the requirement for the player to successfully complete the level by opening the door at the end of the level.
 
 ## 3. Spatiotemporal Design
 
@@ -275,11 +275,11 @@ However, there are improvements for the level to be better when playing level, t
 ## Generative AI Use Acknowledgement
 
 ### Tool Used: Grammarly
-**Nature of Use** To fix the errors in the spelling
+**Nature of Use** To fix the errors in the spelling.
 
 **Evidence Attached?**
 ![GrammarlyEvidence!](DocImages/GrammarlyEvidence.png)
 
-**Additional Notes:** I used Grammarly to fix up the wording in all my sentences and paragraphs.
+**Additional Notes:** I used Grammarly to fix my spelling as I something typed the words wrong.
 
 
