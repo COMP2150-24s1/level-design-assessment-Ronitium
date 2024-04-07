@@ -82,10 +82,9 @@ Pressure Pads will make the player discover a mechanic that will trigger another
 ### 2.4. Trigger Doors
 
 1)
-![Trigger Doors 1!](DocImages/TriggerDoors1.png)
-
+![Trigger Doors 1!](DocImages/TriggerDoor1.png)
 2)
-![Trigger Doors 2!](DocImages/TriggerDoors2.png)
+![Trigger Doors 2!](DocImages/TriggerDoor2.png)
 
 Trigger doors will prevent the player from exploring the level even furthur as it need to be activated by a certain mechanic.
 
