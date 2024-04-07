@@ -65,6 +65,7 @@ Adding the acid in the beginning of the level can be a good obstacle as it intro
 
 1)
 ![PushableBlock 1!](DocImages/PushableBlock1.png)
+
 2)
 ![PushableBlock 2!](DocImages/PushableBlock2.png)
 
@@ -74,6 +75,7 @@ Adding Pushable Boxes as there can be other mechanics that may require a Box to 
 
 1)
 ![PressurePad 1!](DocImages/PressurePad1.png)
+
 2)
 ![PressurePad 2!](DocImages/PressurePad2.png)
 
@@ -83,6 +85,7 @@ Pressure Pads will make the player discover a mechanic that will trigger another
 
 1)
 ![Trigger Doors 1!](DocImages/TriggerDoor1.png)
+
 2)
 ![Trigger Doors 2!](DocImages/TriggerDoor2.png)
 
@@ -92,6 +95,7 @@ Trigger doors will prevent the player from exploring the level even furthur as i
 
 1)
 ![Spikes 1!](DocImages/Spikes1.png)
+
 2)
 ![Spikes 2!](DocImages/Spikes2.png)
 
@@ -101,10 +105,13 @@ Adding spikes also introduce another hazard of the level because this keeps the 
 
 1)
 ![Moving Platform 1!](DocImages/MPlatform1.png)
+
 2)
 ![Moving Platform 2!](DocImages/MPlatform2.png)
+
 3)
 ![Moving Platform 3!](DocImages/MPlatform3.png)
+
 4)
 ![Moving Platform 4!](DocImages/MPlatform4.png)
 
@@ -114,6 +121,7 @@ Moving platform will safely help the player getting to one side to another inste
 
 1)
 ![Checkpoint 1!](DocImages/CP1.png)
+
 2)
 ![Checkpoint 2!](DocImages/CP2.png)
 
@@ -122,6 +130,7 @@ Checkpoints prevents players from repeating a large section of the level. If the
 ### 2.8. Weapon Pickup (Staff)
 1)
 ![Staff 1!](DocImages/Staff1.png)
+
 2)
 ![Staff 2!](DocImages/Staff2.png)
 
@@ -131,6 +140,7 @@ Staff was added to the game because there will be enemies or other mechanics tha
 
 1)
 ![Chompers 1!](DocImages/Chompers1.png)
+
 2)
 ![Chompers 2!](DocImages/Chompers2.png)
 
@@ -140,6 +150,7 @@ Makes the player aware that the enemy will be after the player.
 
 1)
 ![Destructable Walls 1!](DocImages/DC1.png)
+
 2)
 ![Destructable Walls 2!](DocImages/DC2.png)
 
@@ -155,6 +166,7 @@ Gun plays a role of killing enimes at the long range and activates a single use 
 
 1)
 ![Single Use Switches 1!](DocImages/SUS1.png)
+
 2)
 ![Single Use Switches 2!](DocImages/SUS2.png)
 
@@ -166,6 +178,7 @@ Adding the spitter to the level creates another obsticle to the player. This mak
 
 1)
 ![Spitters 1!](DocImages/Spitter1.png)
+
 2)
 ![Spitters 2!](DocImages/Spitter2.png)
 
@@ -173,6 +186,7 @@ Adding the spitter to the level creates another obsticle to the player. This mak
 
 1)
 ![Destructable Walls 1!](DocImages/DW1.png)
+
 2)
 ![Destructable Walls 2!](DocImages/DW2.png)
 
@@ -182,6 +196,7 @@ Adding destructable wall will not only make the player defended from other enemi
 
 1)
 ![Health Pickups 1!](DocImages/HP1.png)
+
 2)
 ![Health Pickups 2!](DocImages/HP2.png)
 
@@ -191,6 +206,7 @@ After the player took some damages from the enimies or obstacles, health pickup 
 
 1)
 ![Pass Through Platforms 1!](DocImages/PTP1.png)
+
 2)
 ![Pass Through Platforms 2!](DocImages/PTP2.png)
 
@@ -200,6 +216,7 @@ Pass through platforms plays an important role as it prevents the player from go
 
 1)
 ![Bridge 1!](DocImages/Bridge1.png)
+
 2)
 ![Bridge 2!](DocImages/Bridge2.png)
 
@@ -209,6 +226,7 @@ The bridge will block the players path unless it was triggered by either a press
 
 1)
 ![Key 1!](DocImages/Key1.png)
+
 2)
 ![Key 2!](DocImages/Key2.png)
 
