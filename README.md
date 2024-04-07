@@ -72,7 +72,7 @@ Adding the acid at the beginning of the level can be a good obstacle as it intro
 2)
 ![PushableBlock 2!](DocImages/PushableBlock2.png)
 
-Adding Pushable Boxes as there can be other mechanics that may require a box to push with.
+A pushable boxes can be pushed to the pressure pad or used as a movable platform.
 
 ### 2.3. Pressure Pads
 
