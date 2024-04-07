@@ -184,9 +184,11 @@ When making the level from Unity, it needs to make sure that the player tries to
 
 When playtesting the level, there are some mechanics that need to be added or removed from the scene becuase some mechanics do not work in certain areas of the level or sometimes some combined mechanics may take too long for the player to beat, there is also needs to be a lot of playtesting with the level becuase when finishing the level, the amount of time taken will always display a different result.
 
+![Scrapped Storyboard!](DocImages/Scrapped.png)
+
 When playtesting the level and timing how long it takes to beat the level, there is one sence that did not make it to the Unity level from the storyboard becuase it may take longer for the other players to beat the level in a certain timeframe.
 
-However, there are improvements for the level to be better, 
+However, there are improvements for the level to be better, when playing the level, there are a lot of destrutable walls which can result in additional time to take to beat the level within the time frame and making sure that certain areas of the game is not confussing for the players to discover and explore.
 
 ## Generative AI Use Acknowledgement
 
