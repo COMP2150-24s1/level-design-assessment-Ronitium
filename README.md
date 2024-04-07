@@ -275,7 +275,7 @@ However, there are improvements for the level to be better when playing level, t
 ## Generative AI Use Acknowledgement
 
 ### Tool Used: Grammarly
-**Nature of Use** To fix the errors in the spelling.
+**Nature of Use:** To fix the errors in the spelling.
 
 **Evidence Attached?**
 ![GrammarlyEvidence!](DocImages/GrammarlyEvidence.png)
