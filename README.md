@@ -50,11 +50,6 @@ Another example that the player can explore is in the second section of the leve
 This demonstrates that the player can get an oportunity to reexplore an area that they have been before but will find out that another path has been opened.
 
 ## 2. Core Gameplay (~400 words)
-A section on Core Gameplay, where storyboards are used to outline how you introduce the player to each of the required gameplay elements in the first section of the game. Storyboards should follow the format provided in lectures.
-
-Storyboards can be combined when multiple mechanics are introduced within a single encounter. Each section should include a sentence or two to briefly justify why you chose to introduce the mechanic/s to the player in that sequence.
-
-You should restructure the headings below to match the order they appear in your level.
 
 ### 2.1. Acid
 
@@ -157,10 +152,7 @@ IF the player fails to make a jump on the moving platform, the player will fall 
 Chompers and spitters being on a moving platform acts as a bodyguard as not only the players have to go to the moving platform, they will also need to deal with the chompers and spitters being on or near the platform.
 
 ## 3. Spatiotemporal Design
-A section on Spatiotemporal Design, which includes your molecule diagram and annotated level maps (one for each main section of your level). These diagrams may be made digitally or by hand, but must not be created from screenshots of your game. The annotated level maps should show the structure you intend to build, included game elements, and the path the player is expected to take through the level. Examples of these diagrams are included in the level design lectures.
 
-No additional words are necessary for this section (any words should only be within your images/diagrams).
- 
 ### 3.1. Molecule Diagram
 
 ### 3.2. Level Map – Section 1
