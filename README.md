@@ -87,6 +87,8 @@ The player will acquire the staff if interacted
 
 ### 2.8. Chompers
 
+![Chompers 1!](DocImages/Chompers1.png)
+![Chompers 2!](DocImages/Chompers2.png)
 Chompers will deal 1 heart of damage to the player when being hit
 
 ### 2.9. Destructable Columns
