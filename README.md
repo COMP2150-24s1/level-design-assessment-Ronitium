@@ -82,7 +82,7 @@ A pushable boxes can be pushed to the pressure pad or used as a movable platform
 2)
 ![PressurePad 2!](DocImages/PressurePad2.png)
 
-Pressure Pads will make the player discover a mechanic that will trigger another mechanic.
+Pressure pads will make the player discover a mechanic that will trigger another mechanic.
 
 ### 2.4. Trigger Doors
 
@@ -102,7 +102,7 @@ Trigger doors will prevent the player from exploring the level even further as i
 2)
 ![Spikes 2!](DocImages/Spikes2.png)
 
-Adding spikes also introduces another hazard of the level because this keeps the player aware that acid is not the only hazard that harms the player.
+Adding spikes also introduces another hazard of the level because this keeps the player aware that acid is not the only fixed hazard that harms the player.
 
 ### 2.6. Moving Platforms
 
