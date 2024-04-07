@@ -181,13 +181,13 @@ The level assumes that the player has picked up the gun. The switches can only b
 
 ### 2.13. Spitters
 
-Adding the spitter to the level creates another obstacle for the player. This makes the player try to avoid the spit or pass through the spitter before the spitter spits.
-
 1)
 ![Spitters 1!](DocImages/Spitter1.png)
 
 2)
 ![Spitters 2!](DocImages/Spitter2.png)
+
+Adding the spitter to the level creates another obstacle for the player. This makes the player try to avoid the spit or pass through the spitter before the spitter spits.
 
 ### 2.14. Destructable Walls
 
